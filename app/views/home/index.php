@@ -6,6 +6,7 @@
   <hr class="my-4">
   <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut sed eum praesentium error reiciendis nesciunt enim? Eos ipsa veniam corporis voluptas eius, veritatis sunt laborum. Odio sequi deleniti quam fugiat?</p>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores a beatae deleniti neque rem eos cupiditate enim magnam natus doloremque reprehenderit cum sunt repudiandae, quod eveniet at atque, rerum error.</p>
   <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
   
 </div>
