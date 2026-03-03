@@ -1,13 +1,13 @@
 <div class="container py-5">
     <div class="row align-items-center g-5">
         <div class="col-lg-6">
-            <h1 class="display-4 fw-bold lh-1 mb-3 text-primary">Selamat Datang di Website Saya</h1>
+            <h1 class="display-4 fw-bold lh-1 mb-3 text">Selamat Datang di Website Saya</h1>
             <p class="lead">Halo, nama saya <span class="fw-bold text-dark"><?= $data['nama']; ?></span>.</p>
             <p class="text-muted">Ini merupakan salah satu karya praktek saya saat berada di kelas pemrograman website dasar yang berfokus pada pembuatan 
                 website dengan Konsep MVC sederhana yang efisien dan memastikan code mudah dibaca dan tertata dengan baik.</p>
             
             <div class="d-grid gap-2 d-md-flex justify-content-md-start mt-4">
-                <a href="<?= BASEURL ?>/about" class="btn btn-primary btn-lg px-4 me-md-2 shadow-sm">About Me</a>
+                <a href="<?= BASEURL ?>/about" class="btn btn-outline-dark px-4 ml-2 btn-lg px-4 me-md-2 shadow-sm">About Me</a>
             </div>
         </div>
 
