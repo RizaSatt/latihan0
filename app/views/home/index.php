@@ -3,7 +3,8 @@
         <div class="col-lg-6">
             <h1 class="display-4 fw-bold lh-1 mb-3 text-primary">Selamat Datang di Website Saya</h1>
             <p class="lead">Halo, nama saya <span class="fw-bold text-dark"><?= $data['nama']; ?></span>.</p>
-            <p class="text-muted">Saya adalah seorang pengembang yang berfokus pada pembuatan solusi digital yang efisien dan estetis. Menggunakan teknik tipografi dan spasi utilitas untuk memastikan konten Anda mudah dibaca dan tertata dengan baik.</p>
+            <p class="text-muted">Ini merupakan salah satu karya praktek saya saat berada di kelas pemrograman website dasar yang berfokus pada pembuatan 
+                website dengan Konsep MVC sederhana yang efisien dan memastikan code mudah dibaca dan tertata dengan baik.</p>
             
             <div class="d-grid gap-2 d-md-flex justify-content-md-start mt-4">
                 <a href="<?= BASEURL ?>/about" class="btn btn-primary btn-lg px-4 me-md-2 shadow-sm">About Me</a>
